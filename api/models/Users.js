@@ -7,13 +7,8 @@
  */
 
 module.exports = {
-
-  attributes: {
-  	
-  	/* e.g.
-  	nickname: 'string'
-  	*/
-    
-  }
-
+	attributes: {
+		username: 'STRING',
+		password: 'STRING'
+	}
 };
