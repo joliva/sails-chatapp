@@ -39,3 +39,4 @@ module.exports.adapters = {
     database: 'YOUR_MYSQL_DB'
   }
 };
+
